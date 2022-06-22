@@ -12,7 +12,7 @@ function Search({ results }) {
 
   console.log(results);
   return (
-    <div class="Searchi">
+    <div classname="Searchi">
       <Head>
         <title>{router.query.term} - Google Search </title>
         <link rel="icon" href="/favicon.ico" />
