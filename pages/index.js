@@ -65,7 +65,7 @@ export default function Home() {
       {/*body*/}
       <form className="flex flex-col items-center pt-3 flex-grow w-4/5">
         <Image
-          src="/SERA.svg"
+          src="/SERA!.svg"
           height={280}
           width={1000}
           priority
